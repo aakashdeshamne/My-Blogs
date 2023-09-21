@@ -1,0 +1,28 @@
+{
+    "blogs": [
+      {
+        "id": 1,
+        "title": "welcome to our new blog",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora laboriosam inventore autem vitae, soluta error, corrupti quod eos hic a iure dolorem fugit, ipsam alias veritatis. Placeat autem nostrum blanditiis!",
+        "auther":"mario"
+      },
+      {
+        "id": 2,
+        "title": "how is the day",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora laboriosam inventore autem vitae, soluta error, corrupti quod eos hic a iure dolorem fugit, ipsam alias veritatis. Placeat autem nostrum blanditiis!",
+        "auther":"yoshi"
+      },
+      {
+        "id": 3,
+        "title": "new blog gon web development",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora laboriosam inventore autem vitae, soluta error, corrupti quod eos hic a iure dolorem fugit, ipsam alias veritatis. Placeat autem nostrum blanditiis!",
+        "auther":"aakash"
+      },
+      {
+        "title": "experience of writing my first blog",
+        "body": "In today's fast-paced world, it's easy to feel overwhelmed and stressed. With so many demands on our time and attention, it can be challenging to find moments of peace and quiet. That's where mindfulness meditation comes in. This practice has been around for centuries and has recently gained popularity as a way to reduce stress, increase focus, and promote overall well-being. In this blog post, we'll explore the benefits of mindfulness meditation and how you can incorporate it into your daily life.\n\nReduces Stress and Anxiety\nOne of the most significant benefits of mindfulness meditation is its ability to reduce stress and anxiety. Research has shown that regular meditation practice can lower cortisol levels, the hormone associated with stress, and increase feelings of calm and relaxation. By taking a few minutes each day to focus on your breath and quiet your mind, you can decrease feelings of stress and anxiety and improve your overall well-being.\n\nIncreases Focus and Productivity\nAnother benefit of mindfulness meditation is that it can increase your focus and productivity. By practicing mindfulness, you can train your brain to be more present and attentive, which can help you stay focused on the task at hand. This increased focus can lead to greater productivity and achievement in both your personal and professional life.\n\nImproves Sleep Quality\nIf you struggle with insomnia or other sleep disorders, mindfulness meditation may be able to help. Research has shown that regular meditation practice can improve sleep quality by decreasing the time it takes to fall asleep and increasing the amount of deep sleep you get each night. By practicing mindfulness before bed, you can calm your mind and body and improve your chances of getting a good night's sleep.\n\nPromotes Emotional Regulation\nMindfulness meditation can also help you regulate your emotions and respond more effectively to stressful situations. By practicing mindfulness, you can become more aware of your thoughts and feelings and learn to observe them without judgment. This can help you develop greater emotional resilience and respond more calmly and thoughtfully to difficult situations",
+        "auther":"sujal",
+        "id": 4
+      }
+    ]
+  }
